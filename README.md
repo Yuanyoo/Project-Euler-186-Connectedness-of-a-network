@@ -1,2 +1,4 @@
-# Project-Euler-186-Connectedness-of-a-network.
-# Project-Euler-186-Connectedness-of-a-network.
+
+![stack Overflow](https://i.imgur.com/a8C9iuu.png)
+
+This was solved using Golang.
